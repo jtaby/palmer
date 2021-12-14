@@ -1,6 +1,8 @@
 # The Palmer Method of Business Writing
 ## Drills & Worksheets
 
+![IMG_3912](https://user-images.githubusercontent.com/51309/145910483-704a7a57-d5aa-4bf7-96e4-6b5b222e2820.JPG)
+
 This book is intended to serve as a companion to The Palmer Method of Business Writing Book by A. N. Palmer. It’s important to read the introduction in order to build a solid foundation of posture and mechanics.
 
 This book also omits certain passages from the drill descriptions which are important. The text accompa- nying the drill is intended to be a reference, not a sub- stitute for reading the book thoroughly & carefully.
@@ -22,3 +24,5 @@ At the end of the book, there are printable lined sheets with the proper spacing
 The practice lines in the drills are dark, to help you focus on spacing. The lines in the worksheets at the end are lighter, to help focus on the writing material.
 
 The lines provided are according to the descriptions in the text. The base lines are 3/8th of an inch apart, and the x-height is 1/16th of an inch.
+
+![IMG_3916](https://user-images.githubusercontent.com/51309/145910464-3aacf3c4-307e-4483-9297-341aa3ed0a38.JPG)
