@@ -1,5 +1,6 @@
-# The Palmer Method of Business Writing
-## Drills & Worksheets
+# The Palmer Method of Business Writing - Drills & Worksheets
+
+# [Download PDF](https://github.com/jtaby/palmer/blob/main/Palmer%20Business%20Writing%20—%20Complete%20Drills%20%26%20Worksheets.pdf)
 
 ![IMG_3912](https://user-images.githubusercontent.com/51309/145910483-704a7a57-d5aa-4bf7-96e4-6b5b222e2820.JPG)
 
